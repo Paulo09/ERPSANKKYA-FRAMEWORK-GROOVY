@@ -1,4 +1,4 @@
-<h1>ERP - SANKHYA - FRAMEWORK GROOVY</h1>
+<h1>ERP - SANKHYA - FRAMEWORK FOR GROOVY</h1>
 
 Framework Groovy para Sankhya: Um Resumo
 O Framework Groovy para Sankhya é uma ferramenta poderosa que estende as funcionalidades do ERP Sankhya, permitindo aos usuários e desenvolvedores criar personalizações, automações e integrações de forma mais ágil e eficiente. Ele utiliza a linguagem Groovy, que é uma linguagem de script dinâmica, orientada a objetos, que roda na Java Virtual Machine (JVM).
